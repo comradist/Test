@@ -1,0 +1,9 @@
+﻿  Functions.c
+C:\Users\Comrade\Desktop\MyKitFilms\Functions.c(154,18): warning C4013: testVal: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Comrade\Desktop\MyKitFilms\Functions.c(168,30): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char [19]"
+C:\Users\Comrade\Desktop\MyKitFilms\Functions.c(168,10): warning C4024: exit: различные типы для формального и фактического параметров 1
+C:\Users\Comrade\Desktop\MyKitFilms\Functions.c(178,13): warning C4098: inputInform: функция типа "void", возвращающая значение
+  main.c
+  Struct.c
+  Создание кода...
+  MyKitFilms.vcxproj -> C:\Users\Comrade\Desktop\MyKitFilms\Debug\MyKitFilms.exe
