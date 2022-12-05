@@ -1,0 +1,8 @@
+1)	Name of film: dsf
+  	My personal rating: 5
+  	IMDB rating: 34.00
+
+2)	Name of film: 32
+  	My personal rating: 7
+  	IMDB rating: 34.00
+
